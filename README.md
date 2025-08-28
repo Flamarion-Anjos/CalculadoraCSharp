@@ -13,7 +13,7 @@ Este projeto foi criado com fins de estudo e prática de programação.
 
 ---
 
-## Programa Compilado
+## 🧮 Programa Compilado
 <img width="284" height="261" alt="image" src="https://github.com/user-attachments/assets/94bfc623-e566-4b60-a9a5-ee351fece91f" />
 
 ---
