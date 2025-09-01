@@ -6,6 +6,33 @@ Este projeto foi criado com fins de estudo e prática de programação.
 
 ---
 
+## 🛠️ Tecnologias utilizadas
+- C#
+- .NET SDK / .NET Core
+
+---
+
+## 🧠 O que aprendi
+### **Fundamentos da Linguagem C#**
+- Sintaxe básica: como escrever instruções, usar ponto e vírgula `;`, chaves `{ }`, etc.
+- Tipos de dados: inteiros (`int`), decimais (`double`), strings (`string`), booleanos (`bool`).
+- Variáveis: como declarar e armazenar valores.
+
+### **Lógica de Programação**
+- Operadores matemáticos: `+`, `-`, `*`, `/`, `%`.
+- Ordem e prioridade de execução dos cálculos matemáticos.
+- Estruturas condicionais: `if`, `else if`, `else` (para escolher a operação).
+
+### **Organização do Código**
+- Funções e métodos: separar a soma, subtração, multiplicação e divisão em métodos próprios.
+- Estrutura de classes: entender como o C# organiza código em classes.
+
+### **Pensamento Computacional**
+- Transformar um problema fazer contas em passos que um computador entenda.
+- Quebrar o problema em partes pequenas (entrar números → escolher operação → mostrar resultado).
+
+---
+
 ## ✨ Funcionalidades  
 - ➕ Adição  
 - ➖ Subtração  
@@ -24,12 +51,6 @@ Este projeto foi criado com fins de estudo e prática de programação.
 ### Pré-requisitos  
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs) instalado
 - [.NET SDK](https://dotnet.microsoft.com/download) instalado
-
----
-
-## 🛠️ Tecnologias utilizadas
-- C#
-- .NET SDK / .NET Core
 
 ---
 
