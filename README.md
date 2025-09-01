@@ -1,4 +1,5 @@
 # 🧮 Calculadora em C#  
+![](https://github.com/user-attachments/assets/362bb65c-c629-4cbe-b46f-0df97bfe8a92)
 
 Uma calculadora simples desenvolvida em **C#** para operações matemáticas básicas.  
 Este projeto foi criado com fins de estudo e prática de programação.  
